@@ -1,5 +1,4 @@
 -- Don't change code in here.
--- If errors occur, contact support (https://modit.store -> contact us)
 -- All values you need to modify are in the config.lua file provided.
 
 Queue         = {}
